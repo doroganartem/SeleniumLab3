@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RaGsg0Z2vdo=",
+  "dgSpecHash": "TnvGc5bT7rE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artem\\SeleniumLab3\\SeleniumLab3.csproj",
+  "projectFilePath": "c:\\Users\\Artem\\Documents\\Programing\\SeleniumLab3\\SeleniumLab3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Artem\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Artem\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

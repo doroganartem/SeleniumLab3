@@ -142,7 +142,6 @@ using System;
             Assert.That(flashMessage.Text, Does.Contain("You logged into a secure area!"));
         }
 
-        // 8. Dynamic Content
         [Test]
         public void Test_08_DynamicContent()
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Artem\\SeleniumLab3\\SeleniumLab3.csproj": {}
+    "c:\\Users\\Artem\\Documents\\Programing\\SeleniumLab3\\SeleniumLab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Artem\\SeleniumLab3\\SeleniumLab3.csproj": {
+    "c:\\Users\\Artem\\Documents\\Programing\\SeleniumLab3\\SeleniumLab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Artem\\SeleniumLab3\\SeleniumLab3.csproj",
+        "projectUniqueName": "c:\\Users\\Artem\\Documents\\Programing\\SeleniumLab3\\SeleniumLab3.csproj",
         "projectName": "SeleniumLab3",
-        "projectPath": "C:\\Users\\Artem\\SeleniumLab3\\SeleniumLab3.csproj",
+        "projectPath": "c:\\Users\\Artem\\Documents\\Programing\\SeleniumLab3\\SeleniumLab3.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Artem\\SeleniumLab3\\obj\\",
+        "outputPath": "c:\\Users\\Artem\\Documents\\Programing\\SeleniumLab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -99,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
